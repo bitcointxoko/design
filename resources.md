@@ -16,6 +16,10 @@ There are also curated open-source design references for bitcoin and nostr proje
 - [Bitcoin Design](https://bitcoin.design/)
 - [Nostr Design](https://nostrdesign.org/)
 
+### Designers & illustrators in Bitcoin and Nostr
+
+### Basque artists
+
 ### Typography
 You can find Basque fonts here: 
 - [TIPOGRAFÍA VASCA](https://aboutbasquecountry.eus/2011/02/13/tipografia-vasca-fuente-bilbao-y-dos-fuentes-vasca-para-nuestros-ordenadores/)
