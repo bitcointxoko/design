@@ -11,4 +11,4 @@ Badges are shown like so on a profile.
 
 [Badge](https://badges.page/b/naddr1qqgrzum594kk2et5w4cz6cnpv3nk2q3qtx0k0a7lw62vvqax6p3ku90tccgdka7ul4radews2wrdsg0m865sxpqqqp6njjqqffm) awarded to the attendees of the first meetup. 
 ### Requirements
-- webp or png of no less than 1024 x 1024 pixels.
+- square webp or png of no less than 1024 x 1024 pixels.
