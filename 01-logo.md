@@ -16,4 +16,4 @@ Profile page on Damus, a popular iOS nostr client.
 ### Requirements
 - a square image
 
-### 
+## Pill-shaped logo
