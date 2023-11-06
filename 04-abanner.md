@@ -6,3 +6,6 @@ Since Bitcoin Txoko is frequently writing guides and explainers, a clean article
 ![](/images/abanner-blog-example.jpeg)  
 
 Batiscafo writes book reviews and uses the article banner to show book covers. 
+
+### Requirements
+- I think 7:4 would be great. 
