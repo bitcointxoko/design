@@ -8,4 +8,7 @@ It can also be the banner for the Reddit-like [community](https://satellite.eart
 This is our current banner, just quickly made in ASCII art, so a redesign is probably much needed. 
 
 ### Requirements
-- rectangle, on satellite.earth it's 3:1. 
+- rectangle
+  - on satellite.earth it's 3:1.
+  - on snort.social it's 16:7. 
+  
