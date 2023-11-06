@@ -1,7 +1,9 @@
 ## Logo
+The logo will be used everywhere from social media profiles to merch so it's rather important! 
+
+You can take a look at current logos [here](https://github.com/bitcointxoko/logos). 
 
 ### Context
-
 ![Amethyst Profile](/images/amethyst-profile.jpeg)  
 
 Profile page on Amethyst, a popular Android nostr client. 
@@ -11,3 +13,7 @@ Profile page on Amethyst, a popular Android nostr client.
 
 Profile page on Damus, a popular iOS nostr client. 
 
+### Requirements
+- a square image
+
+### 
