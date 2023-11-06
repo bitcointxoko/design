@@ -10,5 +10,6 @@ This is our current banner, just quickly made in ASCII art, so a redesign is pro
 ### Requirements
 - rectangle
   - on satellite.earth it's 3:1.
-  - on snort.social it's 16:7. 
+  - on snort.social it's 16:7.
+  - probably make it 16:7 and use more margins on 3:1. 
   
