@@ -3,7 +3,7 @@
 Links to some things that might be related. Perhaps you would find them helpful in the design process. 
 
 ### Other communities
-There are a number of communities that have been inspirations for this project. 
+A number of communities that have been inspirations for this project. 
 - [Bitcoin Beach](https://www.bitcoinbeach.com/), El Salvador
 - [Bitcoin Beach Brazil](https://bitcoinbeachbr.org/)
 - [Bitcoin Jungle](https://www.bitcoinjungle.app/), Costa Rica
@@ -12,7 +12,7 @@ There are a number of communities that have been inspirations for this project.
 - [Arnhem Bitcoin City](https://www.arnhembitcoinstad.nl/), the Netherlands
 
 ### Open-source design
-There are also curated open-source design references for bitcoin and nostr projects. 
+Curated open-source design references for bitcoin and nostr projects. 
 - [Bitcoin Design](https://bitcoin.design/)
 - [Nostr Design](https://nostrdesign.org/)
 
