@@ -8,4 +8,4 @@ It can also be the banner for the Reddit-like [community](https://satellite.eart
 This is our current banner, just quickly made in ASCII art, so a redesign is probably much needed. 
 
 ### Requirements
-- rectangle, on satellite.earth it's 16:5. 
+- rectangle, on satellite.earth it's 3:1. 
