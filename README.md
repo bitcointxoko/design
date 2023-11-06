@@ -1,5 +1,5 @@
-# design
-design guide
+# Design
+Design guide for Bitcoin Txoko. 
 
 Contents  
 [00 Basics](/00-basics.md)  
