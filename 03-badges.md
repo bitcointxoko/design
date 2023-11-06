@@ -5,3 +5,7 @@ Bitcoin Txoko can award badges to users on nostr, which can be displayed on thei
 ![profile-badge](/images/profile-badges.jpeg)  
 
 Badges are shown like so on a profile. 
+
+
+### Requirements
+- webp or png of no less than 1024 x 1024 pixels.
