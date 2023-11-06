@@ -2,7 +2,7 @@
 Bitcoin Txoko can award badges to users on nostr, which can be displayed on their profiles. Badges can be used to show someone has attended a special event or contributed to a crowdfund, for example. 
 
 ### Context
-![profile-badge](/images/profile-badges.jpeg)  
+![profile-badge](./images/profile-badges.jpeg)  
 
 Badges are shown like so on a profile. 
 
