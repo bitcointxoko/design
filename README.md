@@ -19,4 +19,6 @@ The easiest way to use this guide is to download it to your computer and read it
 
 To save this repository to your computer, find the green `Code` button and press `Download ZIP`. 
 
-Unzip the `.zip` file. Install Obsidian and point a new vault to the unzipped folder by choosing the `Open folder as vault` option. 
+Unzip the `.zip` file. 
+
+Install Obsidian and point a new vault to the unzipped folder by choosing the `Open folder as vault` option. 
