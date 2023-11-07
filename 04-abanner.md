@@ -3,6 +3,9 @@ Since Bitcoin Txoko is frequently writing guides and explainers, a clean article
 
 ### Example
 ![](./images/abanner-example.jpeg)  
+
+This is how the banner is displayed on our blog page at https://blog.bitcointxoko.com
+
 ![](./images/abanner-blog-example.jpeg)  
 
 Batiscafo writes book reviews and uses the article banner to show book covers. 
