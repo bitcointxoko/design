@@ -16,6 +16,8 @@ Curated open-source design references for bitcoin and nostr projects.
 - [Bitcoin Design](https://bitcoin.design/)
 - [Nostr Design](https://nostrdesign.org/)
 
+- [Nostr logo](https://github.com/mbarulli/nostr-logo)
+
 ### Designers & illustrators in Bitcoin and Nostr
 
 ### Basque artists
