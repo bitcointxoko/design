@@ -4,7 +4,7 @@ Since Bitcoin Txoko is frequently writing guides and explainers, a clean article
 ### Example
 ![](./images/habla-example.jpeg)
 
-This is how the banner is displayed on Habla, a popular 
+This is how the banner is displayed on Habla, a popular long-form web client.
 
 ![](./images/abanner-example.jpeg)  
 
