@@ -38,3 +38,6 @@ It can appear on the wallet page...
 
 ### Requirements
 - a rectangular webp or png image
+
+### Suggested approach
+One way to do this is to make the rectangular logo and just arrange the margins around it to fit into a square for the square logo. This is what I'm doing now because I'm lazy. If you can come up with a better approach that of course would be much appreciated!
