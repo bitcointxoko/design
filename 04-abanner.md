@@ -15,7 +15,7 @@ This is how the banner is displayed on our blog page at https://blog.bitcointxok
 Batiscafo writes book reviews and uses the article banner to show book covers. 
 
 ### Requirements
-- I think 7:4 would be great. 
+- I think a webp or png in 7:4 would be great. 
 
 ### Suggested approach
 I suggest making a template, for exmaple with the logo on a background, and leave space for adding icons to indicate difficulty, time required, app icons, platforms supported etc. This way we can reuse the template for each guide or explainer that we publish. The background design and the way icons are arranged on the template are up to you. 
