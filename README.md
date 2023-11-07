@@ -13,3 +13,10 @@ Design guide for Bitcoin Txoko.
 |[06 SeedSigner](./06-seedsigner.md)  |**|
 
 - [Resources](/resources.md)  
+
+## How to use this guide
+The easiest way to use this guide is to download it to your computer and read it with a markdown reader like [Obsidian](https://obsidian.md/). 
+
+To save this repository to your computer, find the green `Code` button and press `Download ZIP`. 
+
+Unzip the `.zip` file. Install Obsidian and point a new vault to the unzipped folder by choosing the `Open folder as vault` option. 
