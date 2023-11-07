@@ -28,6 +28,5 @@ Curated open-source design references for bitcoin and nostr projects.
 You can find Basque fonts here: 
 - [TIPOGRAFÍA VASCA](https://aboutbasquecountry.eus/2011/02/13/tipografia-vasca-fuente-bilbao-y-dos-fuentes-vasca-para-nuestros-ordenadores/)
 
-### Other
 You can make ASCII art here:
 - https://patorjk.com/software/taag/#p=display&f=Slant&t=Bitcoin%20Txoko
