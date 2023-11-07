@@ -1,6 +1,8 @@
 # Design
 Design guide for Bitcoin Txoko. 
 
+To explore the things going on at Bitcoin Txoko, you can [follow us](https://snort.social/nprofile1qqs9n8m87l0hd9xxqwndqcmwzh4uvyxmwlw0637kuhg98pkcy8ana2gpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ehx7um5wghxyctwvshszrnhwden5te0dehhxtnvdakz7lvvlup) on Nostr and check out our [links](https://nostree.me/txoko@bitcointxoko.com/). 
+
 ## Contents  
 |Item|Priority|
 |--|--|
