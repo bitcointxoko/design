@@ -18,8 +18,8 @@ Since the wallets backing these BoltCards can have a receiving address too, thes
 
 A blank NFC card looks like this. 
 
-![boltcard-baltichoneybadger-front](./images/boltcard-honeybadger-front.jpeg)
-![boltcard-baltichoneybadger-back](./images/boltcard-honeybadger-back.jpeg)
+![boltcard-baltichoneybadger-front](./images/boltcard-baltichoneybadger-front.jpeg)
+![boltcard-baltichoneybadger-back](./images/boltcard-baltichoneybadger-back.jpeg)
 
 An example design from the [Baltic Honeybadger](https://baltichoneybadger.com/) conference in Riga, Latvia. The badgers' eyes even light up upon NFC contact!
 
