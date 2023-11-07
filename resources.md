@@ -19,6 +19,8 @@ Curated open-source design references for bitcoin and nostr projects.
 - [Nostr logo](https://github.com/mbarulli/nostr-logo)
 
 ### Designers & illustrators in Bitcoin and Nostr
+- NoGood ([Nostr](https://snort.social/nprofile1qqs9tuz9jpn57djg7nxunhyvuvk69g5zqaxdpvpqt9hwqv7395u9rpg6zq5uw), [Store](https://www.nogood.studio/), [Lo-Fi radio](https://zap.stream/naddr1qq9rzd3c8qenzv34xgesygz47pzeqe60xey0fnwfmjxwxtdz52pqwnxskqs9jmhqx0gj6wz3s5psgqqqwenslj8h0y)
+- Awayuki ([Nostr](https://snort.social/nprofile1qqsv6sy2d8xxcumu5xnkalpl5frudjjnajq87mnuj46pvsty09lgzcszqafyh), [Store](https://suzuri.jp/awayuki), [Presentation at Nostrasia 2023](https://speakerdeck.com/awayukinet/an-example-of-a-certain-illustrator-in-nostr))
 
 ### Basque artists
 
