@@ -24,11 +24,13 @@ The checkout screen at the online shop.
 
 ## Rectangular logo
 
-![rectangular-logo](https://raw.githubusercontent.com/bitcointxoko/logos/main/b-txoko-logo-pill.png)
+![rectangular-logo](https://raw.githubusercontent.com/bitcointxoko/logos/main/b-txoko-logo-pill.png)  
+
+This is our current rectangular logo in a pill shape. 
 
 ![txoko-wallet](./images/txoko-wallet.jpeg)
 
-The rectangular logo can appear on the wallet page... 
+It can appear on the wallet page... 
 
 ![btcpay-dashboard](./images/btcpay-dashboard.jpeg)
 
