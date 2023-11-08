@@ -10,6 +10,9 @@ A number of communities that have been inspirations for this project.
 - [Bitcoin Ekasi](https://bitcoinekasi.com/), South Africa
 - [Einundzwanzig](https://einundzwanzig.space/), DACH
 - [Arnhem Bitcoin City](https://www.arnhembitcoinstad.nl/), the Netherlands
+- [Bitcoin Park](https://bitcoinpark.com/), Nashville, TN
+- [PlebLab](https://www.pleblab.com/), Austin, TX
+- [hack.bs](https://hack.bs.it/), Italy
 
 ### Open-source design
 Curated open-source design references for bitcoin and nostr projects. 
