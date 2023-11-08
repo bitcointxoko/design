@@ -5,12 +5,14 @@ A [BoltCard](https://boltcard.org/) is a NFC card that can make Bitcoin Lightnin
 Requirements: 
 - rounded rectangle 85.5 mm x 54 mm (two sides per card)
 - two or three designs, including at least one "discreet" design with no obvious connection to bitcoin
-- (optional) integrate a 30 mm x 30 mm blank cutout for QR codes into the design
+- (suggested) integrate one or two 30 mm x 30 mm blank cutout for QR codes into the design, one for Lightning Address, another for Nostr npub. See #Suggested approach for details. 
 
 ### Suggested approach
 The NFC card uses the same form factor that of a credit card or public transit card, so you can use one of those to trace an outline if desired. 
 
 Since the wallets backing these BoltCards can have a receiving address too, these can be integrated into the card design in the form of a QR code on the back side of the card. This way the cardbearer can not only use their cards to spend but to receive as well. Consider making a blank square cutout in the card design where the QR code can be printed. 
+
+Another thing we can do with QR codes is to display the cardholder's nostr npub (their public key) so that people can just scan their card and follow them on nostr. 
 
 ### Examples
 
@@ -26,3 +28,5 @@ An example design from the [Baltic Honeybadger](https://baltichoneybadger.com/) 
 ![boltcard-connecttheworld-back](./images/boltcard-connecttheworld-back.jpeg)
 
 An example design from the [Connect the World](https://connecttheworld.live/) podcast with an integrated QR code. 
+
+For more, check out TAPSIGNER and SATSCARD [designs](https://store.coinkite.com/store/satscard) for inspiration. These are different products than the BoltCard but for design purposes they are similar. 
