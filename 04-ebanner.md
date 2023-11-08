@@ -12,7 +12,7 @@ Going forward we will probably separate events into two kinds. First are regular
 The challenge with this is that unless we reuse the same design or template, we will have to come up with a new one for every event.  
 
 ### Example
-I think the Málaga community does a great job with their event posters. 
+I think the Málaga community does a great job with their event posters. Have a look at their [meetup page](https://malaga2140.xyz/Meetups-2f46b451e82b43c883f3fbefc8037bbb).
 
 ### Requirements
 - a png image
