@@ -12,7 +12,7 @@ The NFC card uses the same form factor that of a credit card or public transit c
 
 Since the wallets backing these BoltCards can have a receiving address too, these can be integrated into the card design in the form of a QR code on the back side of the card. This way the cardbearer can not only use their cards to spend but to receive as well. Consider making a blank square cutout in the card design where the QR code can be printed. 
 
-Another thing we can do with QR codes is to display the cardholder's nostr npub (their public key) so that people can just scan their card and follow them on nostr. 
+Another thing we can do with QR codes is to display the cardholder's nostr npub (their public key) so that people can just scan their card and follow them on nostr. I don't think anyone has done this before so I think it would be really cool if you can be the first one to pull it off!
 
 ### Examples
 
