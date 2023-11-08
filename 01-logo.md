@@ -19,6 +19,10 @@ Profile page on Damus, a popular iOS nostr client.
 
 The checkout screen at the online shop. 
 
+![Lightning Invoice](./images/lightning-invoice.png)
+
+A Lightning invoice generated in Bitcoin Txoko's wallet. 
+
 ### Requirements
 - a square webp or png image
 
