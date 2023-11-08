@@ -16,4 +16,4 @@ I think the Málaga community does a great job with their event posters. Have a 
 
 ### Requirements
 - a png image
-- unless using templates, will have to be made on a regular basis. 
+- unless using templates, will have to be remade on a regular basis. 
