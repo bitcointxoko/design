@@ -1,5 +1,5 @@
 ## Article Banners
-Since Bitcoin Txoko is frequently writing guides and explainers, a clean article banner would make the blog much more visually appealing. It can also convey useful information and make it a better user experience for the reader. For example, the article banner for a guide can contain icons to indicate difficulty, time and tools required, icons to help users identify the technology they are learning about, like app icons. 
+Article banners are used on the long-form publications published by Bitcoin Txoko. For the moment, these include guides and explainers. A clean article banner would make the blog much more visually appealing. It can also convey useful information and make it a better user experience for the reader. For example, the article banner for a guide can contain icons to indicate difficulty, time and tools required, icons to help users identify the technology they are learning about, like app icons. 
 
 ### Requirements
 - I think a webp or png in 7:4 would be great. 
