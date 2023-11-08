@@ -19,7 +19,7 @@ To explore the things going on at Bitcoin Txoko, you can [follow us](https://sno
 - [Resources](/resources.md)  
 
 ## How to use this guide
-The easiest way to use this guide is to download it to your computer and read it with a markdown reader like [Obsidian](https://obsidian.md/). 
+The easiest way to use this guide is to download it to your computer and read it with a markdown notes app like [Obsidian](https://obsidian.md/). 
 
 To save this repository to your computer, find the green `Code` button and press `Download ZIP`. 
 
