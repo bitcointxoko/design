@@ -10,7 +10,7 @@ To explore the things going on at Bitcoin Txoko, you can [follow us](https://sno
 |[01 Logo](./01-logo.md)  |*****|
 |[02 Profile Banner](./02-pbanner.md)|****|
 |[03 Article Banner](./03-abanner.md) |***|
-|[04 Event Banner](./04-ebanner.md) |***|
+|[04 Event Banner](./04-ebanner.md) |**|
 |[05 Nostr Badges](./05-badges.md)  |*|
 |[06 BoltCard](./07-boltcard.md)  |***|
 |[07 SeedSigner](./07-seedsigner.md)  |**|
