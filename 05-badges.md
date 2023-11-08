@@ -3,7 +3,7 @@ Bitcoin Txoko can award badges to users on nostr, which can be displayed on thei
 
 ### Requirements
 - square webp or png of no less than 1024 x 1024 pixels.
-- badges will have to be created upon request. 
+- badges will have to be created upon request since there is no fixed schedule for issuing badges. 
 
 ### Context
 ![profile-badge](./images/profile-badges.jpeg)  
