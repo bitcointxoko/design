@@ -28,6 +28,6 @@ The goal is to decide on a maximum of three colours (primary, secondary and tert
 ### Typography(?)
 Typography isn't too high on the priority list since default fonts are mostly fine. But deciding on a nice typography could help you in the process of designing things like [event banners](./04-ebanner.md) (posters). We can also use the font on our [blog](https://blog.bitcointxoko.com). 
 
-The logo text currently uses the Basque font. You can find in in the [Resources](./resources.md) document. 
+The logo text currently uses the Vasca font. You can find in in the [Resources](./resources.md) document. 
 
 Nostr design has some [tips](https://nostrdesign.org/docs/design-principles/ui-tips/#typography) to help. 
