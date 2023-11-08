@@ -35,7 +35,7 @@ To track changes and versioning more easily you can take advantage of `git`, but
 
 First you'd need to have `git` installed on your computer. Assuming you use a Mac, go to [brew.sh](https://brew.sh) and install Homebrew. 
 
-Once Homebrew is done installing, you can install `git` with this command. 
+Once Homebrew is installed, you can install `git` with this command. Copy & paste it into the Terminal app.  
 
 ```
 brew install git
