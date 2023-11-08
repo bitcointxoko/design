@@ -14,6 +14,7 @@ To explore the things going on at Bitcoin Txoko, you can [follow us](https://sno
 |[05 Nostr Badges](./05-badges.md)  |*|
 |[06 BoltCard](./07-boltcard.md)  |***|
 |[07 SeedSigner](./07-seedsigner.md)  |**|
+|[99 More](./99-more.md)  |**|
 
 - [Resources](/resources.md)  
 
