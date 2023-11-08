@@ -6,5 +6,5 @@ Going forward we will probably separate events into two kinds. First are regular
 |Type|Meetup|Workshop|
 |--|--|--|
 |Informal|Yes|No|
-|Knowledge required|Yes|No|
-|Location|cafe/restaurant|classroom|
+|Knowledge required|No|Yes|
+|Location|cafe/bar|classroom|
