@@ -29,4 +29,6 @@ An example design from the [Baltic Honeybadger](https://baltichoneybadger.com/) 
 
 An example design from the [Connect the World](https://connecttheworld.live/) podcast with an integrated QR code. 
 
+NoGood has made a printable zine ([download .zip](https://www.nogood.studio/wp-content/uploads/2023/11/Printables-NoGood-SovereignElectronics.zip)) to showcase his NFC card designs. 
+
 For more, check out TAPSIGNER and SATSCARD [designs](https://store.coinkite.com/store/satscard) for inspiration. These are different products than the BoltCard but for design purposes they are similar. 
