@@ -1,5 +1,5 @@
 ## BoltCard
-A [BoltCard](https://boltcard.org/) is a NFC card that can make Bitcoin Lightning Network payments, kind of like a Lightning debit card ([demo](https://www.youtube.com/watch?v=jLsZ9faRstY)). Community members can create their own cards using the [wallet](https://bitcointxoko.com/) hosted by Bitcoin Txoko. We're currently offering white PVC cards for sale on our [shop](https://shop.bitcointxoko.com) page. It would be really cool if we can also offer a couple of designs and profits from card sales can be used to fund the designer(s). 
+A [BoltCard](https://boltcard.org/) is a NFC card that can make Bitcoin Lightning Network payments, kind of like a Lightning debit card ([demo](https://www.youtube.com/watch?v=jLsZ9faRstY)). Community members can create their own cards using the [wallet](https://bitcointxoko.com/) hosted by Bitcoin Txoko. We're currently offering white PVC cards for sale on our [shop](https://shop.bitcointxoko.com) page. These cards can also be used as gift cards, where they can be topped up with a certain amount and given away as gifts. It would be really cool if we can also offer a couple of different designs and profits from card sales can be used to fund the designer(s). 
 
 ### Requirements
 Requirements: 
